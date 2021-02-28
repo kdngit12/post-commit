@@ -1,0 +1,3 @@
+cp -Rf /tmp/src/* ./
+
+/usr/libexec/s2i/assemble
